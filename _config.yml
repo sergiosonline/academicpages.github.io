@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sergio E. Betancourt"
-  avatar           : "SergioBetancourt1.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "SergioBetancourt1.jpg"
+  bio              : "Data Scientist"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sergio.betancourt@mail.utoronto.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
