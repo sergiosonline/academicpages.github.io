@@ -1,10 +1,11 @@
 ---
-title: "Bayesian Analysis of Road Safety in the City of Toronto"
-excerpt: "Investigation of Road Safety in the City of Toronto using a proprietary RShiny web-app and Bayesian semi-parametric logistic regression <br/><img src='/images/Toronto-Safety-Final-20190517.png'>"
+title: "Bayesian Methods for Data Correlated in Time and Space"
+excerpt: "Exploration of semi-parametric modeling of $CO_2$ emissions in Hawaii and Malaria incidence in Gambia using the INLA Bayesian toolkit <br/><br/><img src='/images/Toronto-Safety-Final-20190517.png'>"
 collection: portfolio
 ---
 
 Abstract :
-*Road traffic safety is a crucial component of urban planning and development. Nowadays governments (and sometimes the private sector) dedicate significant resources to providing ample and sufficient infrastructure to accommodate diverse modes of transportation, thereby increasing the productivity of any given urban area. In this project we examine road safety in the City of Toronto from 2007 to 2017 and explore the areas with highest risk of a traffic incident, controlling for different factors.*
 
-Download [**here**](https://sergiosonline.github.io/files/Toronto-Safety-Final-20190517.pdf)
+*Previously difficult to fit and perform inference on, Bayesian models (and the programming and analytical frameworks to compute them efficiently) are enjoying a splendid renaissance across the board. Harnessing the novel Integrated Nested Laplacian Approximation (INLA) framework I carry out two investigations into the capabilities of Bayesian statistics to describe data with strong dependencies in time and space, shedding light on tough, but extremely rigurous, modelling techniques.*
+
+Download [**here**](https://sergiosonline.github.io/files/Modelling-in-Space-and-Time.pdf)
