@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ML Malware Prediction in the Cloud"
+excerpt: "Large-scale implementation of ML production-level pipeline in pySpark across multiple Cloud providers<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
