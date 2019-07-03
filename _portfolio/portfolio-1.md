@@ -1,6 +1,6 @@
 ---
 title: "ML Malware Prediction in the Cloud"
-excerpt: "Large-scale implementation of ML production-level pipeline in PySpark across multiple Cloud providers<br/><br/><img src='/images/500x300.png'>"
+excerpt: "Large-scale implementation of ML production-level pipeline in PySpark across multiple Cloud providers<br/><br/><img src='/images/ml-results.png'>"
 collection: portfolio
 ---
 
