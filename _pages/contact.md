@@ -1,7 +1,6 @@
 ---
-permalink: /
+permalink: /contact/
 title: "Contact"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /contact/
