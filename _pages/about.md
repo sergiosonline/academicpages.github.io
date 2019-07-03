@@ -17,7 +17,7 @@ Present endeavors:
 
 * Selected to attend the 2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School
 
-* ML malware detection model in Google Cloud Plaftorm using BigQuery and PySpark
+* ML malware detection model in GCP and Azure using the Spark and Hadoop frameworks
 
 * Modelling road safety in the City of Toronto
 
@@ -25,4 +25,4 @@ Present endeavors:
 
 My principal albeit ever-evolving academic interests are: Machine Learning, Deep Learning, Finance, Scientific Computation, and Consulting.
 
-For samples of my work and academic proceedings please go to this website's **Resources** section or my Git page above.
+For samples of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
