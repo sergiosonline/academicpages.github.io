@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Analysis of Road Safety in the City of Toronto"
-excerpt: "Investigation of Road Safety in the City of Toronto using a proprietary RShiny web-app and Bayesian semi-parametric logistic regression <br/><br/><img src='/images/Toronto-Safety-Final-20190517.png'>"
+excerpt: "Investigation of Road Safety in the City of Toronto using our own RShiny web-app and Bayesian semi-parametric logistic regression <br/><br/><img src='/images/Toronto-Safety-Final-20190517.png'>"
 collection: portfolio
 ---
 
