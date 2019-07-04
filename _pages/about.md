@@ -10,6 +10,8 @@ redirect_from:
 
 I am a graduate student in Statistical Sciences at the [University of Toronto](https://www.utoronto.ca/) (Canada).
 
+My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
+
 I am also a semi-professional dancer, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
 
 Present endeavors:
@@ -22,7 +24,5 @@ Present endeavors:
 * Modelling road safety in the City of Toronto
 
 * Modelling tobacco product usage in American teenagers
-
-My principal albeit ever-evolving academic interests are: Machine Learning, Deep Learning, Finance, Scientific Computation, and Consulting.
 
 For samples of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
