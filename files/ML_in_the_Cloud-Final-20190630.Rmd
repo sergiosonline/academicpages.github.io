@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Malware Prediction Challenge in the Cloud"
-subtitle: "MIE1628 - Big Data Science - Final Report"
-author: "Sergio E. Betancourt (998548585)"
+subtitle: "Self-Directed Project - Final Report"
+author: "Sergio E. Betancourt (sergio.betancourt@mail.utoronto.ca)"
 date: '2019-06-30'
 output:
   bookdown::pdf_document2: default
@@ -170,7 +170,7 @@ It is also important to compare all trained/considered models in terms of AUROC 
 
 # Results
 
-I measured the success of my models by their train/test Area under the Receiver Operating Curve (AUROC). This is the standard metric for balanced, classification tasks. A high difference in test and train AUROCs (training variance) means that the model may be underfitting and perhaps requires better hyperparameter values, whereas values that are too close require a more thought to identify possible issues.
+I measured the success of my models by their train/test Area under the Receiver Operating Curve (AUROC). This is the standard metric for balanced, classification tasks, for which a value of 1 corresponds to perfect classification, 0.5 corresponds to random guessing, and 0 corresponds to the most imperfect results. A high difference in test and train AUROCs (training variance) means that the model may be underfitting and perhaps requires better hyperparameter values, whereas values that are too close require a more thought to identify possible issues.
 
 For all of these models I employed 3-fold cross validation and a 90-10 train-test split. Moreover, they were trained with 3 Spark executors, 95GB memory each, for a total of 225GB of computation memory. Model parallelization was set at level 8 across the board. 
 
