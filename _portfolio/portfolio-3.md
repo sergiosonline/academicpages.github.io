@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Methods for Data Correlated in Time and Space"
-excerpt: "Exploration of semi-parametric modeling of $\text{CO}_2$ emissions in Hawaii and Malaria incidence in Gambia using the INLA Bayesian framework <br/><br/><img src='/images/co2-malaria.png'>"
+excerpt: "Exploration of semi-parametric modeling of CO$_2$ emissions in Hawaii and Malaria incidence in Gambia using the INLA Bayesian framework <br/><br/><img src='/images/co2-malaria.png'>"
 collection: portfolio
 ---
 
