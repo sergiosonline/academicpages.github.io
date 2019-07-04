@@ -17,7 +17,7 @@ I am also a semi-professional dancer, currently part of Toronto's prestigious [i
 Present endeavors:
 ---
 
-* Selected to attend the 2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School
+* Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/)
 
 * ML malware detection model in GCP and Azure using the Spark and Hadoop frameworks
 
