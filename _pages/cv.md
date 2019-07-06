@@ -22,10 +22,7 @@ Research and Teaching
   * Generalized Regression Analysis (STA303)
   * Linear Regression Analysis (STA302)
   * The Practice of Statistics I (STA220)
-
-* Jan – Jun 2019: Private Data Science Consultant
-  * SBEPA Research Network and University of Toronto
-
+  
 * Jan – May 2019: Machine Learning Research Assistant
   * Risklab Toronto
 
@@ -35,19 +32,23 @@ Research and Teaching
 
 Industry
 ======
+* Jan – Jun 2019: Private Data Science Consultant
+  * SBEPA Research Network, University of Toronto's Office of the Dean, and Geotab
+
 * Aug 2017 – Apr 2018: Assistant Vice President
-  * **Citigroup's (NYSE: C)** North American Equities Electronic Execution
+  * **Citigroup (NYSE: C)** North American Equities Electronic Execution
 
 * Sep 2016 – Aug 2017: Intermediate Technology Analyst
-  * **Citigroup's** Global Data Services
+  * **Citigroup** Global Data Services
   
 * Jun 2015 – Sep 2016: Technology Analyst I
-  * **Citigroup's** North American Prime Brokerage
-  
+  * **Citigroup** North American Prime Brokerage
+
+
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch, R/shiny, SQL, noSQL, C/C++, Hive/Impala, Spark (Scala/pySpark), C/C++, SQL, noSQL (MongoDB), Hive/Impala, Hadoop, Unix/bash, SAS, Jupyter, GCP, Azure, AWS, and ELK
+  * Python/PyTorch, R/shiny, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
   
 * Languages
   * English, Spanish
