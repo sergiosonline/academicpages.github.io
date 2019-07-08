@@ -19,6 +19,8 @@ Present endeavors:
 
 * Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/)
 
+* Deep learning techniques for object recognition--background-foreground objects
+
 * ML malware detection model in GCP and Azure using the Spark and Hadoop frameworks
 
 * Modelling road safety in the City of Toronto
