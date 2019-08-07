@@ -12,14 +12,14 @@ I am a graduate student in Statistical Sciences at the [University of Toronto](h
 
 My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
 
-I am also a semi-professional dancer, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
+I am also a professional dancer, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
 
 Present endeavors:
 ---
 
-* Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/)
+* Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
 
-* Deep learning techniques for object recognition--background-foreground objects
+* Deep learning techniques for computer vision
 
 * ML malware detection model in GCP and Azure using the Spark and Hadoop frameworks
 
