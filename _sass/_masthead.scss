@@ -3,6 +3,8 @@
    ========================================================================== */
 
 .masthead {
+  /*new*/
+  background: $head-color;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -21,7 +23,9 @@
       max-width: $x-large;
     }
 
-    nav {
+    nav { 
+      /*new*/
+      background: $head-color; 
       z-index: 10;
     }
 
@@ -32,8 +36,13 @@
 }
 
 .masthead__menu {
-
+  /*new*/
+  margin-left: 2em;
   ul {
+    /*new*/
+    background: $head-color;     
+    margin-left: 3em; 
+    /*new*/
     margin: 0;
     padding: 0;
     clear: both;
@@ -42,12 +51,14 @@
 }
 
 .masthead__menu-item {
+  /*new*/
+  background: $head-color;
   display: block;
   list-style-type: none;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 4em; /*2em;*/
     font-weight: 700;
   }
 }
