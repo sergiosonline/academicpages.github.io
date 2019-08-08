@@ -13,6 +13,8 @@ Education
 ======
 * MSc in Data Science and Machine Learning, University of Toronto, In Progress
   * Recipient of University of Toronto Fellowship (full funding)
+  * Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
+  * Advised by Professor [Jamie Stafford](http://www.utstat.utoronto.ca/stafford/index.html)
 * HBSc in Mathematics and Statistics, University of Toronto, 2015
   * Academic Distinction (Cum Laude), PEY, and Gordon Cressy and ULife Leadership Awards
 
@@ -51,9 +53,9 @@ Technology and Languages
   * Python/PyTorch, R/shiny, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
   
 * Languages
-  * English, Spanish
+  * English (Native), Spanish (Fluent)
   
 Extracurriculars
 ======
-* 2018 – Present: Semi-Professional Dance Performer, iFreestyle Dance Entertainment
-* 2016 – 2017: Amateur Dance Performer, Steps Dance Studio
+* 2018 – Present: Professional Dance Performer, [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
+* 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/).
