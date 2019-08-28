@@ -18,6 +18,7 @@ Education
 * HBSc in Mathematics and Statistics, University of Toronto, 2015
   * Academic Distinction (Cum Laude), PEY, and Gordon Cressy and ULife Leadership Awards
 
+
 Research and Teaching
 ======
 * Sep 2018 – Present: Graduate Teaching Assistant
@@ -31,6 +32,12 @@ Research and Teaching
 * May – Aug 2018: Data Science Research Assistant
   * IHPME at the University of Toronto
   * Joint work with NYU
+
+Talks
+======
+* [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-INLA_and_Toronto-20190815.pdf)
+  * August 15, 2019
+  * Georgian Partners Inc., Toronto, Canada
 
 Industry
 ======
