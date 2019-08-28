@@ -35,7 +35,7 @@ Research and Teaching
 
 Talks
 ======
-* August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-INLA_and_Toronto-20190815.pdf)
+* August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-Hierarchical_Models_and_Toronto-20190815.pdf)
   * [Georgian Partners Inc.](https://georgianpartners.com/), Toronto, Canada
 
 Industry
