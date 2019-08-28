@@ -35,9 +35,8 @@ Research and Teaching
 
 Talks
 ======
-* [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-INLA_and_Toronto-20190815.pdf)
-  * August 15, 2019
-  * Georgian Partners Inc., Toronto, Canada
+* August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-INLA_and_Toronto-20190815.pdf)
+  * [Georgian Partners Inc.](https://georgianpartners.com/), Toronto, Canada
 
 Industry
 ======
@@ -45,13 +44,13 @@ Industry
   * SBEPA Research Network, University of Toronto's Office of the Dean, and Geotab
 
 * Aug 2017 – Apr 2018: Assistant Vice President
-  * **Citigroup (NYSE: C)** North American Equities Electronic Execution
+  * [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), North American Equities Electronic Execution
 
 * Sep 2016 – Aug 2017: Intermediate Technology Analyst
-  * **Citigroup** Global Data Services
+  * **Citigroup**, Global Data Services
   
 * Jun 2015 – Sep 2016: Technology Analyst I
-  * **Citigroup** North American Prime Brokerage
+  * **Citigroup**, North American Prime Brokerage
 
 
 Technology and Languages
