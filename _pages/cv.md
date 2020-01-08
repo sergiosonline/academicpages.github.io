@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc in Statistical Sciences and Machine Learning, University of Toronto, In Progress
+* MSc in Statistical Sciences and Machine Learning, University of Toronto, 2019
   * Recipient of University of Toronto Fellowship (full funding)
   * Selected and funded to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
   * Advised by Professor [Jamie Stafford](http://www.utstat.utoronto.ca/stafford/index.html)
@@ -35,6 +35,9 @@ Research and Teaching
 
 Talks
 ======
+* January 9, 2020: [Painless Introduction to Approximate Bayesian Inference using INLA](https://sergiosonline.github.io/files/Intro_to_INLA.html)
+  * Bayesian Methods Private Meet-up, [KPMG](https://home.kpmg/ca/en/home/about/offices/toronto-1.html), Toronto, Canada
+
 * August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-Hierarchical_Models_and_Toronto-20190815.pdf)
   * [Georgian Partners Inc.](https://georgianpartners.com/), Toronto, Canada
 
@@ -60,12 +63,12 @@ Industry
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch, R/shiny, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
+  * Python/PyTorch, R/shiny, Stan, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
 
 * Languages
   * English (Native), Spanish (Fluent)
 
 Extracurriculars
 ======
-* 2018 – Present: Semi-Professional Dance Performer, [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
+* 2018 – Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
 * 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/).
