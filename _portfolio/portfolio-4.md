@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Smoking Habits in the American Youth"
-excerpt: "I study the uptake of cigarette smoking, as well as consumption of other tobacco products, in the 2015 American National Youth Tobacco Survey, a survey of American teenagers, aged 9 to 19 years old, which collected not only indicators on the usage of different tobacco products, but also demographic data. <br/><br/><img src='/images/us-pop.png'>"
+excerpt: "I study the uptake of cigarette smoking (Bayesian Survival Analysis), as well as consumption of other tobacco products (Logistic Regression), in the 2015 American National Youth Tobacco Survey, a survey of American teenagers, aged 9 to 19 years old, which collected not only indicators on the usage of different tobacco products, but also demographic data. <br/><br/><img src='/images/us-pop.png'>"
 collection: portfolio
 ---
 

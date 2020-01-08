@@ -1,6 +1,6 @@
 ---
-title: "Rigorous Monte Carlo Classification in the case when N < P"
-excerpt: "We study the benefits and mixing properties of different Monte Carlo algorithms when implementing a logistic classifier in the MNIST hand-written dataset.   <br/><br/><img src='/images/MNIST.png'>"
+title: "Exploration of a Variety of Monte Carlo Methods in the Context of Logistic Classification when N < P"
+excerpt: "We study the benefits and mixing properties of different Monte Carlo algorithms when implementing a logistic classifier on the MNIST hand-written dataset.   <br/><br/><img src='/images/MNIST.png'>"
 collection: portfolio
 ---
 
