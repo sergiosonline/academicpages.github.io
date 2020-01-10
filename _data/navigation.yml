@@ -1,17 +1,16 @@
 # main links links
 main:
   - title: "Contact"
-    url: /contact/    
+    url: /contact/
 
   - title: "Projects"
     url: /portfolio/
     
-  - title: "Resources"
-    url: /resources/
-    
+  - - title: "Talks and Resources"
+    url: /talks/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Dance"
     url: /dance/
-
