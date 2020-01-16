@@ -9,6 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+
+Industry
+======
+
+* Sep 2019 – Present: Data Scientist
+  * [Nulogy](https://nulogy.com/)
+
+* Jan – Jun 2019: Private Data Science Consultant
+  * [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), University of Toronto's Office of the Dean and Geotab
+
+* Aug 2017 – Apr 2018: Assistant Vice President
+  * [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), North American Equities Electronic Execution
+
+* Sep 2016 – Aug 2017: Intermediate Technology Analyst
+  * [Citigroup](https://www.citigroup.com/citi/) , Global Data Services
+
+* Jun 2015 – Sep 2016: Technology Analyst I
+  * [Citigroup](https://www.citigroup.com/citi/) , North American Prime Brokerage
+
+
 Education
 ======
 * MSc in Statistical Sciences and Machine Learning, University of Toronto, 2019
@@ -41,29 +61,11 @@ Talks
 * August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-Hierarchical_Models_and_Toronto-20190815.pdf)
   * [Georgian Partners Inc.](https://georgianpartners.com/), Toronto, Canada
 
-Industry
-======
-
-* Sep 2019 – Present: Data Scientist
-  * [Nulogy](https://nulogy.com/)
-
-* Jan – Jun 2019: Private Data Science Consultant
-  * [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), University of Toronto's Office of the Dean, and Geotab
-
-* Aug 2017 – Apr 2018: Assistant Vice President
-  * [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), North American Equities Electronic Execution
-
-* Sep 2016 – Aug 2017: Intermediate Technology Analyst
-  * **Citigroup**, Global Data Services
-
-* Jun 2015 – Sep 2016: Technology Analyst I
-  * **Citigroup**, North American Prime Brokerage
-
 
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch, R/shiny, Stan, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
+  * Python/PyTorch, R/shiny, Stan, INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
 
 * Languages
   * English (Native), Spanish (Fluent)
