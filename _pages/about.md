@@ -12,19 +12,19 @@ I am a Data Scientist at [Nulogy](https://nulogy.com/) in Toronto, Canada. I hol
 
 My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
 
-I am also a semi-professional dance performer and teaching assistant, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
+I am also a dance performer and teaching assistant, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
 
 Present and recent endeavors:
 ---
 
-* Education on applied Bayesian inference and computation via [Towards Data Science](https://towardsdatascience.com/) and several in-person meet-ups in Toronto
+* Education on applied Bayesian inference and Machine Learning computation via [Towards Data Science](https://towardsdatascience.com/) and several Bayesian and Non-Bayesian meet-ups in Toronto
 
 * Recommender systems and agile data science
 
-* Selected to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
+* Selected to attend, and funded for, the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Graduate Summer School](https://dlrlsummerschool.ca/about/)
 
 * Deep learning techniques for computer vision, unsupervised/representation learning, and transfer/meta-learning
 
 * Principled and accessible evaluation of ML techniques in supervised learning
 
-For samples of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
+For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.

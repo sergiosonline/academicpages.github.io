@@ -17,7 +17,7 @@ Industry
   * [Nulogy](https://nulogy.com/)
 
 * Jan – Jun 2019: Private Data Science Consultant
-  * [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), University of Toronto's Office of the Dean and Geotab
+  * [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), University of Toronto's Office of the Dean, and [Geotab](https://www.geotab.com/)
 
 * Aug 2017 – Apr 2018: Assistant Vice President
   * [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), North American Equities Electronic Execution
@@ -33,6 +33,7 @@ Education
 ======
 * MSc in Statistical Sciences and Machine Learning, University of Toronto, 2019
   * Recipient of University of Toronto Fellowship (full funding)
+  * Concentration in Scientific Computation, Bayesian Inference, and Machine Learning
   * Selected and funded to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
   * Advised by Professor [Jamie Stafford](http://www.utstat.utoronto.ca/stafford/index.html)
 * HBSc in Mathematics and Statistics, University of Toronto, 2015
@@ -55,6 +56,10 @@ Research and Teaching
 
 Talks
 ======
+
+* January 28, 2020: **Elementary, Hands-on Introduction to Artificial Neural Networks**
+  * [Brainstation](https://brainstation.io/), Toronto, Canada
+
 * January 9, 2020: [Painless Introduction to Approximate Bayesian Inference using INLA](https://sergiosonline.github.io/files/Intro_to_INLA.html)
   * Bayesian Methods Private Meet-up, [KPMG](https://home.kpmg/ca/en/home/about/offices/toronto-1.html), Toronto, Canada
 

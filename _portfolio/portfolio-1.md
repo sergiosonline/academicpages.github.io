@@ -1,12 +1,13 @@
 ---
-title: "ML Malware Prediction in the Cloud"
-excerpt: "Large-scale implementation of ML production-level pipeline in PySpark across multiple Cloud providers<br/><br/><img src='/images/ml-results.png'>"
+title: "Bayesian Analysis of Road Safety in the City of Toronto"
+excerpt: "Investigation of Road Safety in the City of Toronto using our own RShiny web-app and Bayesian semi-parametric logistic regression <br/><br/><img src='/images/Toronto-Safety-Final-20190517.png'>"
 collection: portfolio
 ---
 
 Abstract:
 
-*This work is centered around a binary classification problem over millions of observations, each pertaining to a distinct Windows device. By classifying correctly which device has the highest chance of acquiring malware in the coming time period, we can get an idea of the most influential factors towards said infection. This work also consists of an exploration of Google Cloud Platform (GCP) and Microsoft Azure as on-demand distributed computing ecosystems. There is also some discussion around the class imbalance problem in classification.*
-*My results are pretty impressive for such rudimentary implementations (1st place in Kaggle got .71 AUROC).*
+*Road traffic safety is a crucial component of urban planning and development. Nowadays governments (and sometimes the private sector) dedicate significant resources to providing ample and sufficient infrastructure to accommodate diverse modes of transportation, thereby increasing the productivity of any given urban area. In this project we examine road safety in the City of Toronto from 2007 to 2017 and explore the areas with highest risk of a traffic incident, controlling for different factors.*
 
-Download [**here**](https://sergiosonline.github.io/files/ML_in_the_Cloud-Final-20190630.pdf)
+Download report [**here**](https://sergiosonline.github.io/files/Toronto-Safety-Final-20190517.pdf)
+
+Download app [**here**](https://sergiosonline.github.io/files/toronto-app.zip)
