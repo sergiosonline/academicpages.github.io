@@ -17,6 +17,8 @@ I am also a dance performer and teaching assistant, currently part of Toronto's 
 Present and recent endeavors:
 ---
 
+* Principal designer of [Nulogy's](https://nulogy.com/) first live machine learning feature. Read more about it [here](https://nulogy.com/news-events/nulogy-news/first-ai-powered-capability/).
+
 * Education on applied Bayesian inference and Machine Learning computation via [Towards Data Science](https://towardsdatascience.com/) and several Bayesian and Non-Bayesian meet-ups in Toronto
 
 * Recommender systems and agile data science
@@ -25,6 +27,6 @@ Present and recent endeavors:
 
 * Deep learning techniques for computer vision, unsupervised/representation learning, and transfer/meta-learning
 
-* Principled and accessible evaluation of ML techniques in supervised learning
+* Principled and accessible evaluation of ML techniques in supervised and unsupervised learning
 
 For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.

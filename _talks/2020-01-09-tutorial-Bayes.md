@@ -2,7 +2,7 @@
 title: "Tutorial on Approximate Bayesian Inference using INLA"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-01-09-tutorial-Bayes
+permalink: /talks/2020-01-09-tutorial-Bayes
 venue: "KPMG"
 date: 2020-01-09
 location: "Toronto, Canada"
