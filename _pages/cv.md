@@ -29,6 +29,25 @@ Industry
   * [Citigroup](https://www.citigroup.com/citi/) , North American Prime Brokerage
 
 
+Research and Teaching
+======
+* Mar 2020 - Present: Associate Instructor, Machine Learning and Data Science
+  * [Brainstation](https://brainstation.io/), Toronto Canada
+
+* Sep 2018 – Aug 2019: Graduate Teaching Assistant
+  * [University of Toronto](https://www.statistics.utoronto.ca/), Canada
+  * Generalized Regression Analysis (STA303)
+  * Linear Regression Analysis (STA302)
+  * The Practice of Statistics I (STA220)
+
+* Jan – May 2019: Machine Learning Research Assistant
+  * [Risklab](https://www.risklab.utoronto.ca/), Toronto Canada
+
+* May – Aug 2018: Data Science Research Assistant
+  * [IHPME](https://ihpme.utoronto.ca/) at the University of Toronto, Canada
+  * Joint work with NYU
+
+
 Education
 ======
 * MSc in Statistical Sciences and Machine Learning, University of Toronto, 2019
@@ -39,20 +58,6 @@ Education
 * HBSc in Mathematics and Statistics, University of Toronto, 2015
   * Academic Distinction (Cum Laude), PEY, and Gordon Cressy and ULife Leadership Awards
 
-
-Research and Teaching
-======
-* Sep 2018 – Aug 2019: Graduate Teaching Assistant
-  * Generalized Regression Analysis (STA303)
-  * Linear Regression Analysis (STA302)
-  * The Practice of Statistics I (STA220)
-
-* Jan – May 2019: Machine Learning Research Assistant
-  * Risklab Toronto
-
-* May – Aug 2018: Data Science Research Assistant
-  * IHPME at the University of Toronto
-  * Joint work with NYU
 
 Talks
 ======
@@ -77,5 +82,6 @@ Technology and Languages
 
 Extracurriculars
 ======
-* 2018 – Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
+* 2019 - Present: Contributor to [Towards Data Science](https://towardsdatascience.com/)
+* 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/).
 * 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/).

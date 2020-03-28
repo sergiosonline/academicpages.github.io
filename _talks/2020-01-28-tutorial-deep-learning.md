@@ -12,4 +12,4 @@ This hands-on tutorial served as an introduction to the principal concepts aroun
 
 In this session I also covered an elementary computer vision task on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset.
 
-Materials coming soon!
+Find the Google Colab notebook [here](https://colab.research.google.com/drive/14QGO80Y4rIkKiPdopDSf0aumYFo-_zTw).
