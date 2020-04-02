@@ -17,6 +17,8 @@ I am also a dance performer and teaching assistant, currently part of Toronto's 
 Present and recent endeavors:
 ---
 
+* I've accepted a teaching role at [Brainstation](https://brainstation.io/) in their Toronto location, with a focus on Machine Learning and Data Science.
+
 * Principal designer of [Nulogy's](https://nulogy.com/) first live machine learning feature. Read more about it [here](https://nulogy.com/news-events/nulogy-news/first-ai-powered-capability/).
 
 * Education on applied Bayesian inference and Machine Learning computation via [Towards Data Science](https://towardsdatascience.com/) and several Bayesian and Non-Bayesian meet-ups in Toronto

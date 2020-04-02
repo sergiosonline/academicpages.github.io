@@ -13,38 +13,33 @@ redirect_from:
 Industry
 ======
 
-* Sep 2019 – Present: Data Scientist
-  * [Nulogy](https://nulogy.com/)
+* Sep 2019 – Present: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
-* Jan – Jun 2019: Private Data Science Consultant
-  * [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), University of Toronto's Office of the Dean, and [Geotab](https://www.geotab.com/)
+* Jan – Jun 2019: Private Data Science Consultant, [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), Toronto Canada
+  * Other clients include: University of Toronto's Office of the Dean, and [Geotab](https://www.geotab.com/)
 
-* Aug 2017 – Apr 2018: Assistant Vice President
-  * [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), North American Equities Electronic Execution
+* Aug 2017 – Apr 2018: Assistant Vice President, [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), Toronto Canada
+  * North American Equities Electronic Execution
 
-* Sep 2016 – Aug 2017: Intermediate Technology Analyst
-  * [Citigroup](https://www.citigroup.com/citi/) , Global Data Services
+* Sep 2016 – Aug 2017: Intermediate Technology Analyst, [Citigroup](https://www.citigroup.com/citi/), Toronto Canada
+  * Global Data Services
 
-* Jun 2015 – Sep 2016: Technology Analyst I
-  * [Citigroup](https://www.citigroup.com/citi/) , North American Prime Brokerage
+* Jun 2015 – Sep 2016: Technology Analyst I, [Citigroup](https://www.citigroup.com/citi/), Toronto Canada
+  * North American Prime Brokerage
 
 
 Research and Teaching
 ======
-* Mar 2020 - Present: Associate Instructor, Machine Learning and Data Science
-  * [Brainstation](https://brainstation.io/), Toronto Canada
+* Mar 2020 - Present: Associate Instructor - Machine Learning, [Brainstation](https://brainstation.io/), Toronto Canada
 
-* Sep 2018 – Aug 2019: Graduate Teaching Assistant
-  * [University of Toronto](https://www.statistics.utoronto.ca/), Canada
+* Sep 2018 – Aug 2019: Graduate Teaching Assistant, [University of Toronto](https://www.statistics.utoronto.ca/), Canada
   * Generalized Regression Analysis (STA303)
   * Linear Regression Analysis (STA302)
   * The Practice of Statistics I (STA220)
 
-* Jan – May 2019: Machine Learning Research Assistant
-  * [Risklab](https://www.risklab.utoronto.ca/), Toronto Canada
+* Jan – May 2019: Machine Learning Research Assistant, [Risklab](https://www.risklab.utoronto.ca/), Toronto Canada
 
-* May – Aug 2018: Data Science Research Assistant
-  * [IHPME](https://ihpme.utoronto.ca/) at the University of Toronto, Canada
+* May – Aug 2018: Data Science Research Assistant, [IHPME](https://ihpme.utoronto.ca/) at the University of Toronto, Canada
   * Joint work with NYU
 
 
@@ -75,7 +70,7 @@ Talks
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch, R/shiny, Stan, INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, SAS, Jupyter, Cloud (GCP, Azure, AWS), and ELK
+  * Python/PyTorch/Tensorflow, R/shiny, (Py/R)Stan, R-INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, Cloud (AWS, GCP, and Azure), and ELK suite
 
 * Languages
   * English (Native), Spanish (Fluent)
