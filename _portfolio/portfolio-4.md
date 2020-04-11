@@ -1,11 +1,11 @@
 ---
-title: "Analysis of Smoking Habits in the American Youth"
-excerpt: "I study the uptake of cigarette smoking (Bayesian Survival Analysis), as well as consumption of other tobacco products (Logistic Regression), in the 2015 American National Youth Tobacco Survey, a survey of American teenagers, aged 9 to 19 years old, which collected not only indicators on the usage of different tobacco products, but also demographic data. <br/><br/><img src='/images/us-pop.png'>"
+title: "Bayesian Methods for Data Correlated in Time and Space"
+excerpt: "Exploration of semi-parametric modeling of CO$_2$ emissions over time in Hawaii and geospatial Malaria incidence in Gambia using the Integrated Nested Laplacian Approximation (INLA) approximate Bayesian framework <br/><br/><img src='/images/co2-malaria.png'>"
 collection: portfolio
 ---
 
 Abstract :
 
-*I investigate the uptake of cigarette smoking in a representative sample of American teenagers, surveyed in the 2014+ American National Youth Tobacco Survey. I find greater variation in the rate of smoking uptake between school than between states. Moreover, we find that two comparable (with identical confounders and random geographical effects), non-smoking children do not have the same probability of trying cigarettes within the next month–such probability increases with age. Ultimately, we find that rural, white teenagers are more likely to try their first cigarette earlier than their urban counterparts, controlling for race and sex.*
+*Previously difficult to fit and perform inference on, Bayesian models (and the programming and analytical frameworks to compute them efficiently) are enjoying a splendid renaissance across the board. Harnessing the novel Integrated Nested Laplacian Approximation (INLA) framework I carry out two investigations into the capabilities of Bayesian statistics to describe data with strong dependencies in time and space, shedding light on tough, but extremely rigurous, modelling techniques.*
 
-Download [**here**](https://sergiosonline.github.io/files/Smoking_in_America-Draft.pdf)
+Download [**here**](https://sergiosonline.github.io/files/Modelling-in-Space-and-Time.pdf)
