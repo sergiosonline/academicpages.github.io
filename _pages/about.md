@@ -23,11 +23,7 @@ Present and recent endeavors:
 
 * Education on applied Bayesian inference and Machine Learning computation via [Towards Data Science](https://towardsdatascience.com/) and several Bayesian and Non-Bayesian meet-ups in Toronto
 
-* Recommender systems and agile data science
-
-* Selected to attend, and funded for, the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Graduate Summer School](https://dlrlsummerschool.ca/about/)
-
-* Deep learning techniques for computer vision, unsupervised/representation learning, and transfer/meta-learning
+* Reinforcement and Meta Learning
 
 * Principled and accessible evaluation of ML techniques in supervised and unsupervised learning
 

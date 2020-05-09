@@ -45,11 +45,11 @@ Research and Teaching
 
 Education
 ======
-* MSc in Statistical Sciences and Machine Learning, University of Toronto, 2019
+* MSc in Statistical Sciences and Machine Learning, [University of Toronto](https://www.statistics.utoronto.ca/), 2019
   * Recipient of University of Toronto Fellowship (full funding)
   * Concentration in Scientific Computation, Bayesian Inference, and Machine Learning
-  * Selected and funded to attend the [2019 CIFAR/Amii Deep Learning and Reinforcement Learning Summer School](https://dlrlsummerschool.ca/about/)
   * Advised by Professor [Jamie Stafford](http://www.utstat.utoronto.ca/stafford/index.html)
+* [CIFAR/Amii Deep Learning and Reinforcement Learning Graduate Summer School](https://dlrlsummerschool.ca/about/), [University of Alberta](https://www.ualberta.ca/index.html), 2019
 * HBSc in Mathematics and Statistics, University of Toronto, 2015
   * Academic Distinction (Cum Laude), PEY, and Gordon Cressy and ULife Leadership Awards
 
@@ -57,10 +57,10 @@ Education
 Talks
 ======
 
-* January 28, 2020: **Elementary, Hands-on Introduction to Artificial Neural Networks**
+* January 28, 2020: [Elementary Tutorial on Artificial Neural Networks](https://sergiosonline.github.io/talks/2020-01-28-tutorial-deep-learning)
   * [Brainstation](https://brainstation.io/), Toronto, Canada
 
-* January 9, 2020: [Painless Introduction to Approximate Bayesian Inference using INLA](https://sergiosonline.github.io/files/Intro_to_INLA.html)
+* January 9, 2020: [Painless Introduction to Approximate Bayesian Inference using r-INLA](https://sergiosonline.github.io/files/Intro_to_INLA.html)
   * Bayesian Methods Private Meet-up, [KPMG](https://home.kpmg/ca/en/home/about/offices/toronto-1.html), Toronto, Canada
 
 * August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-Hierarchical_Models_and_Toronto-20190815.pdf)
@@ -70,7 +70,7 @@ Talks
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch/Tensorflow, R/shiny, (Py/R)Stan, R-INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, Cloud (AWS, GCP, and Azure), and ELK suite
+  * Python/PyTorch/Tensorflow/Cython, R/Shiny, (Py/R)Stan, r-INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, Cloud (AWS, GCP, and Azure), and ELK suite
 
 * Languages
   * English (Native), Spanish (Fluent)
