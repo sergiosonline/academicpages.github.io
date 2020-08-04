@@ -1,6 +1,6 @@
 ---
 title: "Exploration of Deep Generative Adversarial Networks in the Context of Image Style Transfer"
-excerpt: "Albeit memory-intensive, Generative Adversarial Networks (GANs) have shown great ability to generate realistic images and transfer (artisitc) styles between photographs and works of art<br/><br/><img src='/images/emojis.png'>"
+excerpt: "Generative Adversarial Networks (GANs) have shown great ability to generate realistic images and transfer (artistic) styles between photographs and works of art<br/><br/><img src='/images/emojis.png'>"
 
 collection: portfolio
 ---

@@ -30,7 +30,7 @@ Industry
 
 Research and Teaching
 ======
-* Mar 2020 - Present: Associate Instructor - Machine Learning, [Brainstation](https://brainstation.io/), Toronto Canada
+* Mar 2020 - Present: Associate Instructor - Data Science and Machine Learning, [Brainstation](https://brainstation.io/), Toronto Canada
 
 * Sep 2018 – Aug 2019: Graduate Teaching Assistant, [University of Toronto](https://www.statistics.utoronto.ca/), Canada
   * Generalized Regression Analysis (STA303)
@@ -77,6 +77,7 @@ Technology and Languages
 
 Extracurriculars
 ======
+* 2020 - Present: Mentor for the [Hispanotech](https://hispanotech.ca/) Mentorship Program
 * 2019 - Present: Editorial Associate and Contributor to [Towards Data Science](https://towardsdatascience.com/)
-* 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/).
-* 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/).
+* 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/)
+* 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/)
