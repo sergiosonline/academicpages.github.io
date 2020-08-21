@@ -78,6 +78,6 @@ Technology and Languages
 Extracurriculars
 ======
 * 2020 - Present: Mentor for the [Hispanotech](https://hispanotech.ca/) Mentorship Program
-* 2019 - Present: Editorial Associate and Contributor to [Towards Data Science](https://towardsdatascience.com/)
+* 2019 - Present: Associate Editor and Contributor to [Towards Data Science](https://towardsdatascience.com/)
 * 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/)
 * 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/)

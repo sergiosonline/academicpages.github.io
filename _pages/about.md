@@ -17,18 +17,19 @@ I am also a dance performer and teaching assistant, currently part of Toronto's 
 Present and recent endeavors:
 ---
 
+* I've been selected for UC Berkeley's Theory of Reinforcement Learning Bootcamp. Read more [here](https://simons.berkeley.edu/workshops/rl-2020-bc).
+
 * I'm attending [StanCon2020](https://www.stancon.mc-stan.org/), the 24-hour Stan virtual conference!
 
 * I've accepted a teaching role at [Brainstation](https://brainstation.io/) in their Toronto location, with a focus on Machine Learning and Data Science.
 
-* Principal designer of [Nulogy's](https://nulogy.com/) first live machine learning feature. Read more about it [here](https://ca.finance.yahoo.com/news/nulogy-releases-first-ai-powered-160000637.html).
+* Principal designer of [Nulogy's](https://nulogy.com/) machine learning features. Read more about the Company's first one [here](https://ca.finance.yahoo.com/news/nulogy-releases-first-ai-powered-160000637.html).
 
-* I've been selected as an Editorial Associate for [Towards Data Science](https://towardsdatascience.com/).
+* I've been selected as an Associate Editor for [Towards Data Science](https://towardsdatascience.com/).
 
 * Education on applied Bayesian inference and Machine Learning computation via several Bayesian and Non-Bayesian meet-ups in Toronto
 
 * Differential Privacy and Reinforcement Learning
 
-* Principled and accessible evaluation of ML techniques in supervised and unsupervised learning
 
 For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
