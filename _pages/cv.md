@@ -72,14 +72,14 @@ Talks
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch/Tensorflow/Cython, R/Shiny, (Py/R)Stan, r-INLA, SQL, noSQL, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, Cloud (AWS, GCP, and Azure), and ELK suite
+  * Python/PyTorch/Tensorflow/Cython, MLFlow, Amazon Web Services (AWS), R/Shiny, (Py/R)Stan, SQL, noSQL, terraform, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, and ELK suite
 
 * Languages
   * English (Native), Spanish (Fluent)
 
 Extracurriculars
 ======
-* 2020 - Present: Mentor for the [Hispanotech](https://hispanotech.ca/) Mentorship Program
+* 2020 - Present: Mentor for the [University of Toronto Statistical Sciences](https://www.statistics.utoronto.ca/) Alumni Mentorship Program
 * 2019 - Present: Associate Editor and Contributor to [Towards Data Science](https://towardsdatascience.com/)
 * 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/)
 * 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist+ at [Moz](https://moz.com/) in Toronto, Canada. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Associate Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
+I am a Data Scientist+ at [Moz](https://moz.com/), housed in Seattle, WA. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Associate Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
 
 My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
 
@@ -26,10 +26,5 @@ Present and recent endeavors:
 * I've accepted a teaching role at [Brainstation](https://brainstation.io/) in their Toronto location, with a focus on Machine Learning and Data Science.
 
 * Principal designer of [Nulogy's](https://nulogy.com/) machine learning features. Read more about the Company's first one [here](https://ca.finance.yahoo.com/news/nulogy-releases-first-ai-powered-160000637.html).
-
-* I've been selected as an Associate Editor for [Towards Data Science](https://towardsdatascience.com/).
-
-* Education on applied Bayesian inference and Machine Learning computation via several Bayesian and Non-Bayesian meet-ups in Toronto
-
 
 For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
