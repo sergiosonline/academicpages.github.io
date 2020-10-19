@@ -13,7 +13,9 @@ redirect_from:
 Industry
 ======
 
-* Sep 2019 – Present: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
+* Oct 2020 – Present: Data Scientist+, [Moz](https://moz.com/)
+
+* Oct 2019 – Sep 2020: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
 * Jan – Jun 2019: Private Data Science Consultant, [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), Toronto Canada
   * Other clients include: University of Toronto's Office of the Dean, and [Geotab](https://www.geotab.com/)
