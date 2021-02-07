@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist+ at [Moz](https://moz.com/), housed in Seattle, WA. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Associate Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
+I am a Data Scientist at [Moz](https://moz.com/), housed in Seattle, WA. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Associate Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
 
 My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
 

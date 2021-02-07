@@ -13,22 +13,15 @@ redirect_from:
 Industry
 ======
 
-* Oct 2020 – Present: Data Scientist+, [Moz](https://moz.com/)
+* Oct 2020 – Present: Data Scientist II, [Moz](https://moz.com/)
 
 * Oct 2019 – Sep 2020: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
 * Jan – Jun 2019: Private Data Science Consultant, [SBEPA Research Network](https://www.daniels.utoronto.ca/work/research/sustainable-built-environment-performance-assessment-sbepa-network), Toronto Canada
   * Other clients include: University of Toronto's Office of the Dean, and [Geotab](https://www.geotab.com/)
 
-* Aug 2017 – Apr 2018: Assistant Vice President, [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), Toronto Canada
+* Jun 2015 – Apr 2018: Assistant Vice President, [Citigroup](https://www.citigroup.com/citi/) (NYSE: C), Toronto Canada
   * North American Equities Electronic Execution
-
-* Sep 2016 – Aug 2017: Intermediate Technology Analyst, [Citigroup](https://www.citigroup.com/citi/), Toronto Canada
-  * Global Data Services
-
-* Jun 2015 – Sep 2016: Technology Analyst I, [Citigroup](https://www.citigroup.com/citi/), Toronto Canada
-  * North American Prime Brokerage
-
 
 Research and Teaching
 ======
@@ -58,21 +51,12 @@ Education
 
 Talks
 ======
-
-* January 28, 2020: [Elementary Tutorial on Artificial Neural Networks](https://sergiosonline.github.io/talks/2020-01-28-tutorial-deep-learning)
-  * [Brainstation](https://brainstation.io/), Toronto, Canada
-
-* January 9, 2020: [Painless Introduction to Approximate Bayesian Inference using r-INLA](https://sergiosonline.github.io/files/Intro_to_INLA.html)
-  * Bayesian Methods Private Meet-up, [KPMG](https://home.kpmg/ca/en/home/about/offices/toronto-1.html), Toronto, Canada
-
-* August 15, 2019: [A Taste of Bayesian Hierarchical Models](https://sergiosonline.github.io/files/Georgian_Partners-Hierarchical_Models_and_Toronto-20190815.pdf)
-  * [Georgian Partners Inc.](https://georgianpartners.com/), Toronto, Canada
-
+Refer to the [Talks](https://sergiosonline.github.io/talks/) section for full details. 
 
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch/Tensorflow/Cython, MLFlow, Amazon Web Services (AWS), R/Shiny, (Py/R)Stan, SQL, noSQL, terraform, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, and ELK suite
+  * Python/PyTorch/Tensorflow/Cython, Amazon Web Services (AWS), MLFlow,  R/Shiny, (Py/R)Stan, SQL, noSQL, terraform, Docker, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, and ELK suite
 
 * Languages
   * English (Native), Spanish (Fluent)

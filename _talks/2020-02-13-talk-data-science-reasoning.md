@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science and AI Reasoning"
+title: "Introduction to Data Science and ML Reasoning"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-02-13-talk-data-science-reasoning
