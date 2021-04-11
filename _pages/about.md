@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at [Moz](https://moz.com/), housed in Seattle, WA. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Associate Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
+I am a Data Scientist at [Moz](https://moz.com/), housed in Seattle, WA. I hold an MSc (2019) and an HBSc (2015) in Statistical Sciences from the [University of Toronto](https://www.utoronto.ca/). I am also an Lead Instructor in Data Science and Machine Learning at [Brainstation](https://brainstation.io/).
 
 My principal albeit ever-evolving academic interests are: Explainability, Inference, and Generalization in Machine Learning and Deep Learning, and Bayesian Inference and Computation.
 
@@ -17,7 +17,9 @@ I am also a dance performer and teaching assistant, currently part of Toronto's 
 Present and recent endeavors:
 ---
 
-* I'm attending the 2020 PyData [conference](https://global.pydata.org/)
+* I've been selected as a fellow of the [Royal Statistical Society](https://www.rss.org.uk/)
+
+* I've been asked to be a mentor of the3skills' [Project Pivot] professional transition program
 
 * I've been selected for UC Berkeley's Theory of Reinforcement Learning Bootcamp. Read more [here](https://simons.berkeley.edu/workshops/rl-2020-bc).
 
