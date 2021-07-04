@@ -15,7 +15,7 @@ Industry
 
 * Jun 2021 - Present: Senior Data Scientist, [Nextdoor](https://nextdoor.com/)
 
-* Oct 2020 – Jun 2021t: Data Scientist II, [Moz](https://moz.com/)
+* Oct 2020 – Jun 2021: Data Scientist II, [Moz](https://moz.com/)
 
 * Oct 2019 – Sep 2020: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
