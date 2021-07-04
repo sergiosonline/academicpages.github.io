@@ -18,11 +18,17 @@ Present and recent endeavors:
 ---
 * I'm attending the 2021 [Oxford ML Graduate School](https://www.oxfordml.school/)
 
-* I was selected for UC Berkeley's Theory of Reinforcement Learning Bootcamp. Read more [here](https://simons.berkeley.edu/workshops/rl-2020-bc).
+* I've been selected as a fellow of the [Royal Statistical Society](https://www.rss.org.uk/)
+
+* I've been asked to be a mentor of the3skills' [Project Pivot] professional transition program
+
+* I've been selected for UC Berkeley's Theory of Reinforcement Learning Bootcamp. Read more [here](https://simons.berkeley.edu/workshops/rl-2020-bc).
+
+* I'm attending [StanCon2020](https://www.stancon.mc-stan.org/), the 24-hour Stan virtual conference!
 
 * I've accepted a teaching role at [Brainstation](https://brainstation.io/) in their Toronto location, with a focus on Machine Learning and Data Science.
 
-* I was the principal designer of [Nulogy's](https://nulogy.com/) and [Moz's](http://moz.com) client-facing machine learning features. 
+* I was the principal designer of [Nulogy's](https://nulogy.com/) and [Moz's](http://moz.com) client-facing machine learning features.
 	* Read more about the Nulogy's first one [here](https://ca.finance.yahoo.com/news/nulogy-releases-first-ai-powered-160000637.html).
 
 For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.

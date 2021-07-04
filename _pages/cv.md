@@ -53,7 +53,7 @@ Education
 
 Talks
 ======
-Refer to the [Talks](https://sergiosonline.github.io/talks/) section for full details. 
+Refer to the [Talks](https://sergiosonline.github.io/talks/) section for full details.
 
 Technology and Languages
 ======
