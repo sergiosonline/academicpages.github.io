@@ -13,7 +13,9 @@ redirect_from:
 Industry
 ======
 
-* Oct 2020 – Present: Data Scientist II, [Moz](https://moz.com/)
+* Jun 2021 - Present: Senior Data Scientist, [Nextdoor](https://nextdoor.com/)
+
+* Oct 2020 – Jun 2021t: Data Scientist II, [Moz](https://moz.com/)
 
 * Oct 2019 – Sep 2020: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
@@ -25,7 +27,7 @@ Industry
 
 Research and Teaching
 ======
-* Mar 2020 - Present: Associate Instructor - Data Science and Machine Learning, [Brainstation](https://brainstation.io/), Toronto Canada
+* Mar 2020 - Present: Lead Instructor - Data Science and Machine Learning, [Brainstation](https://brainstation.io/), Toronto Canada
 
 * Sep 2018 – Aug 2019: Graduate Teaching Assistant, [University of Toronto](https://www.statistics.utoronto.ca/), Canada
   * Generalized Regression Analysis (STA303)
@@ -56,13 +58,14 @@ Refer to the [Talks](https://sergiosonline.github.io/talks/) section for full de
 Technology and Languages
 ======
 * Tech
-  * Python/PyTorch/Tensorflow/Cython, Amazon Web Services (AWS), MLFlow,  R/Shiny, (Py/R)Stan, SQL, noSQL, terraform, Docker, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, and ELK suite
+  * Python/PyTorch/Tensorflow/Cython, Amazon Web Services (AWS), MLFlow, R/Shiny, (Py/R)Stan, SQL, noSQL, terraform, Docker, Apache (Spark, Hive/Impala), C/C++, Hadoop, Unix/bash, Jupyter, and ELK suite
 
 * Languages
   * English (Native), Spanish (Fluent)
 
 Extracurriculars
 ======
+* 2021 - Present: Mentor for the3skills's [Project Pivot](https://www.the3skills.com/pivot) professional mentorship program
 * 2020 - Present: Mentor for the [University of Toronto Statistical Sciences](https://www.statistics.utoronto.ca/) Alumni Mentorship Program
 * 2019 - Present: Associate Editor and Contributor to [Towards Data Science](https://towardsdatascience.com/)
 * 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/)
