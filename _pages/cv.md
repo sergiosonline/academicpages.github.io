@@ -15,7 +15,7 @@ Industry
 
 * Jun 2021 - Present: Senior Data Scientist, [Nextdoor](https://nextdoor.com/)
 
-* Oct 2020 – Jun 2021: Data Scientist II, [Moz](https://moz.com/)
+* Oct 2020 – Jun 2021: Senior Data Scientist, [Moz](https://moz.com/)
 
 * Oct 2019 – Sep 2020: Data Scientist, [Nulogy](https://nulogy.com/), Toronto Canada
 
@@ -67,6 +67,6 @@ Extracurriculars
 ======
 * 2021 - Present: Mentor for the3skills's [Project Pivot](https://www.the3skills.com/pivot) professional mentorship program
 * 2020 - Present: Mentor for the [University of Toronto Statistical Sciences](https://www.statistics.utoronto.ca/) Alumni Mentorship Program
-* 2019 - Present: Associate Editor and Contributor to [Towards Data Science](https://towardsdatascience.com/)
+* 2019 - Present: Editor and Contributor to [Towards Data Science](https://towardsdatascience.com/)
 * 2017 - Present: Semi-Professional Dance Performer and Teaching Assistant, [iFreestyle Dance School](http://www.ifreestyle.ca/)
 * 2016 – 2017: Amateur Dance Performer, [Steps Dance Studio](https://www.stepsdancestudio.com/)

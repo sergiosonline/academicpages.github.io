@@ -14,21 +14,6 @@ My principal albeit ever-evolving academic interests are: Explainability, Infere
 
 I am also a dance performer and teaching assistant, currently part of Toronto's prestigious [iFreestyle Latin Dance Company](http://www.ifreestyle.ca/).
 
-Present and recent endeavors:
 ---
-* I've been selected for the 2021 [Oxford ML Graduate School](https://www.oxfordml.school/)
-
-* I've been selected as a fellow of the [Royal Statistical Society](https://www.rss.org.uk/)
-
-* I'm a mentor in the3skills's [Project Pivot](https://www.the3skills.com/pivot)  professional transition program
-
-* I was selected for UC Berkeley's 2020 Theory of Reinforcement Learning Bootcamp. Read more [here](https://simons.berkeley.edu/workshops/rl-2020-bc).
-
-* I'm attending [StanCon2020](https://www.stancon.mc-stan.org/), the 24-hour Stan virtual conference!
-
-* I've been promoted to Lead Instructor at [Brainstation](https://brainstation.io/). I focus on Machine Learning and Data Science (Statistical Learning).
-
-* I was the principal designer of [Nulogy's](https://nulogy.com/) and [Moz's](http://moz.com) client-facing machine learning features.
-	* Read more about Nulogy's first one [here](https://ca.finance.yahoo.com/news/nulogy-releases-first-ai-powered-160000637.html).
 
 For some of my work and academic proceedings please go to this website's **Projects** section or my Git page above.
